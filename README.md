@@ -10,7 +10,8 @@ Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM:
    ### Client:
-   ![Screenshot 2024-09-30 141253](https://github.com/user-attachments/assets/e9963e2b-e022-4fbb-8835-e25253f11509)
+   ![Screenshot 2024-09-30 141241](https://github.com/user-attachments/assets/febec754-7890-453a-8200-06a80842c914)
+
 
    ### Server:
    ![Screenshot 2024-09-30 141253](https://github.com/user-attachments/assets/f3e8a977-1e76-466e-8667-52b02e0880a2)
